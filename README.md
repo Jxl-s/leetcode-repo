@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/Jxl-s/leetcode-repo/tree/master/0650-2-keys-keyboard) |
 ## Graph
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/Jxl-s/leetcode-repo/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
