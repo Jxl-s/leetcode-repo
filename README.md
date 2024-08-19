@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Jxl-s/leetcode-repo/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Jxl-s/leetcode-repo/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
