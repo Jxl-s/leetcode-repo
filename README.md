@@ -31,4 +31,17 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jxl-s/leetcode-repo/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
