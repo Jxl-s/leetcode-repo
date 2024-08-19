@@ -52,6 +52,7 @@
 | [0001-two-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 ## Graph
 |  |
@@ -95,6 +97,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
+| [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 ## Recursion
 |  |
 | ------- |
