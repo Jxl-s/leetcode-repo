@@ -10,6 +10,7 @@
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
+| [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
+| [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 ## Graph
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
+| [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -134,4 +137,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
