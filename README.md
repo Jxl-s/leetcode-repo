@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
@@ -15,6 +16,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -69,6 +71,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 ## Graph
 |  |
