@@ -1,27 +1,24 @@
-class MinStack:
-    def __init__(self):
-        self.s1 = []
+from collections import deque
 
-        # use a separate stack to store current minimums
-        # might be filled like (1, 1, 1, 0, 0, -2, -2, -3, ...) will just get smaller
-        self.s2 = []
+class MinStack:
+
+    def __init__(self):
+        self.stack = deque()
+        self.min_stack = deque()
 
     def push(self, val: int) -> None:
-        self.s1.append(val)
-        if len(self.s2) == 0:
-            self.s2.append(val)
-        else:
-            self.s2.append(min(val, self.s2[-1]))
+        self.stack.append(val)
+        self.min_stack.append(min(self.min_stack[-1], val) if self.min_stack else val)
 
     def pop(self) -> None:
-        self.s1.pop()
-        self.s2.pop()
+        self.stack.pop()
+        self.min_stack.pop()
 
     def top(self) -> int:
-        return self.s1[-1]
+        return self.stack[-1]
 
     def getMin(self) -> int:
-        return self.s2[-1]
+        return self.min_stack[-1]
 
 
 # Your MinStack object will be instantiated and called as such:
