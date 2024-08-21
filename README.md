@@ -68,6 +68,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Jxl-s/leetcode-repo/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
+| [0664-strange-printer](https://github.com/Jxl-s/leetcode-repo/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
@@ -81,6 +82,7 @@
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
+| [0664-strange-printer](https://github.com/Jxl-s/leetcode-repo/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
