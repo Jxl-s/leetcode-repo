@@ -172,4 +172,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jxl-s/leetcode-repo/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Jxl-s/leetcode-repo/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
