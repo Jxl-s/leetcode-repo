@@ -1,20 +1,32 @@
 class Solution:
     def onesMinusZeros(self, grid: List[List[int]]) -> List[List[int]]:
-        rows = [0 for _ in range(len(grid))]
-        cols = [0 for _ in range(len(grid[0]))]
-        result = [[0] * len(m) for m in grid]
+        m = len(grid)
+        n = len(grid[0])
 
-        for i in range(len(grid)):
-            for j in range(len(grid[i])):
+        result = [[0] * n for _ in range(m)]
+
+        for i in range(m):
+            total = 0
+
+            for j in range(n):
                 if grid[i][j] == 1:
-                    rows[i] += 1
-                    cols[j] += 1
+                    total += 1
                 else:
-                    rows[i] -= 1
-                    cols[j] -= 1
-        
-        for i in range(len(result)):
-            for j in range(len(result[i])):
-                result[i][j] = rows[i] + cols[j]
-        
+                    total -= 1
+            
+            for j in range(n):
+                result[i][j] += total
+
+        for j in range(n):
+            total = 0
+
+            for i in range(m):
+                if grid[i][j] == 1:
+                    total += 1
+                else:
+                    total -= 1
+            
+            for i in range(m):
+                result[i][j] += total
+
         return result
