@@ -16,6 +16,7 @@
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search Tree
 |  |
 | ------- |
