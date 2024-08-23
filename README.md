@@ -15,6 +15,7 @@
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Breadth-First Search
@@ -35,6 +36,7 @@
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
