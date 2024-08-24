@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
@@ -200,4 +201,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
