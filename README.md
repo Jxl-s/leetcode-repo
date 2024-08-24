@@ -79,6 +79,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Jxl-s/leetcode-repo/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
+| [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Jxl-s/leetcode-repo/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
@@ -162,6 +163,7 @@
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
