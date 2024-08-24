@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 ## Topological Sort
 |  |
 | ------- |
