@@ -17,21 +17,24 @@ class Solution:
         ]
 
         selections = []
+        
+
         for digit in digits:
             selections.append(options[int(digit)])
 
         output = []
-        def dfs(path):
+        stack = []
+
+        for letter in selections[0]:
+            stack.append([letter])
+
+        while len(stack) > 0:
+            path = stack.pop()
             if len(path) == len(selections):
-                output.append(path)
-                return
+                output.append(''.join(path))
+            else:
+                next_arr = selections[len(path)]
+                for char in next_arr:
+                    stack.append([*path, char])
 
-            next_arr = selections[len(path)]
-            for char in next_arr:
-                copy = path[:]
-                copy.append(char)
-
-                dfs(copy)
-            
-        dfs([])
-        return [''.join(a) for a in output]
+        return output
