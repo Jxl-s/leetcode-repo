@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
@@ -92,6 +94,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Jxl-s/leetcode-repo/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Jxl-s/leetcode-repo/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
@@ -231,6 +234,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
 | ------- |
