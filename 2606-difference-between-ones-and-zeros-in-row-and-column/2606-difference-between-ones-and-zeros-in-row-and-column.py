@@ -3,30 +3,27 @@ class Solution:
         m = len(grid)
         n = len(grid[0])
 
-        result = [[0] * n for _ in range(m)]
-
+        output = [[0] * n for _ in range(m)]
         for i in range(m):
-            total = 0
-
+            row_count = 0
             for j in range(n):
                 if grid[i][j] == 1:
-                    total += 1
+                    row_count += 1
                 else:
-                    total -= 1
-            
+                    row_count -= 1
+
             for j in range(n):
-                result[i][j] += total
+                output[i][j] += row_count
 
         for j in range(n):
-            total = 0
-
+            col_count = 0
             for i in range(m):
                 if grid[i][j] == 1:
-                    total += 1
+                    col_count += 1
                 else:
-                    total -= 1
-            
-            for i in range(m):
-                result[i][j] += total
+                    col_count -= 1
 
-        return result
+            for i in range(m):
+                output[i][j] += col_count
+
+        return output
