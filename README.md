@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
@@ -226,4 +228,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
