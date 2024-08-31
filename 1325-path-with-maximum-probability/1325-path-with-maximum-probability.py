@@ -7,22 +7,24 @@ class Solution:
 
             adj[a].append((b, prob))
             adj[b].append((a, prob))
+        
+        max_prob = 0
+        visited = set()
 
-        heap = [(-1, start_node)]
-        max_prob = [0] * n
-        max_prob[start_node] = 1
+        def dfs(node, prob):
+            nonlocal max_prob
+            if node in visited:
+                return
 
-        while len(heap) > 0:
-            cur_prob, cur_node = heappop(heap)
-            cur_prob = -cur_prob
+            if node == end_node:
+                max_prob = max(max_prob, prob)
+                return
+            
+            visited.add(node)
 
-            if cur_node == end_node:
-                return cur_prob
+            for child, child_prob in adj[node]:
+                dfs(child, prob * child_prob)
 
-            for neighbor_node, neighbor_prob in adj[cur_node]:
-                new_prob = cur_prob * neighbor_prob
-                if new_prob > max_prob[neighbor_node]:
-                    max_prob[neighbor_node] = new_prob
-                    heappush(heap, (-new_prob, neighbor_node))
 
-        return 0
+        dfs(start_node, 1)
+        return max_prob
