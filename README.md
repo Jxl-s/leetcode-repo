@@ -236,6 +236,7 @@
 | [0804-rotated-digits](https://github.com/Jxl-s/leetcode-repo/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
+| [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -296,4 +297,8 @@
 | [0584-find-customer-referee](https://github.com/Jxl-s/leetcode-repo/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Jxl-s/leetcode-repo/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jxl-s/leetcode-repo/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
