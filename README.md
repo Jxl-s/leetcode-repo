@@ -287,4 +287,8 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Jxl-s/leetcode-repo/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
