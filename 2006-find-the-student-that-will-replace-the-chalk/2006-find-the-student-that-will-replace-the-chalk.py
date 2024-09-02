@@ -1,8 +1,8 @@
 class Solution:
     def chalkReplacer(self, chalk: List[int], k: int) -> int:
         k %= sum(chalk)
-        for i, count in enumerate(chalk):
-            if k < count:
+        for i in range(len(chalk)):
+            if k < chalk[i]:
                 return i
 
-            k -= count
+            k -= chalk[i]
