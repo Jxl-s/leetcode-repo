@@ -25,6 +25,7 @@
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
+| [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jxl-s/leetcode-repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/2035-count-sub-islands) |
@@ -117,6 +118,7 @@
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jxl-s/leetcode-repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
+| [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
+| [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -248,6 +251,7 @@
 | [0804-rotated-digits](https://github.com/Jxl-s/leetcode-repo/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
+| [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Jxl-s/leetcode-repo/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
