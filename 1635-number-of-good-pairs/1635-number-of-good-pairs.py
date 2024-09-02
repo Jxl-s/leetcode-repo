@@ -1,10 +1,11 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        counts = Counter(nums)
         total = 0
+        counts = defaultdict(int)
 
-        for num, c in counts.items():
-            if c > 1:
-                total += (c-1)*c // 2
+        for num in nums:
+            n = counts[num]
+            total += n
+            counts[num] += 1
 
         return total
