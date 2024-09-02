@@ -239,6 +239,7 @@
 | [0804-rotated-digits](https://github.com/Jxl-s/leetcode-repo/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
