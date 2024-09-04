@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Tree
 |  |
@@ -210,6 +211,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
@@ -327,4 +329,12 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
