@@ -28,7 +28,7 @@ class Solution:
                     ny = y + move[1]
 
                     if (nx, ny) in obstacles_set:
-                        continue
+                        break
 
                     x = nx
                     y = ny
