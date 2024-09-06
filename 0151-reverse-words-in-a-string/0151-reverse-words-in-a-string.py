@@ -1,16 +1,14 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        output = []
-        buffer = ''
-        s = s.strip()
-
-        for c in s:
-            if c == ' ':
-                if buffer != '':
-                    output.append(buffer)
-                    buffer = ''
+        output = ''
+        words = s.strip().split(' ')
+        for i in range(len(words) - 1, -1, -1):
+            if words[i] == '':
+                continue
+            
+            if output != '':
+                output += ' ' + words[i]
             else:
-                buffer += c
-        
-        output.append(buffer)
-        return ' '.join(output[::-1])
+                output += words[i]
+
+        return output
