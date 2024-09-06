@@ -17,9 +17,9 @@ class Solution:
         while current:
             if current.val in nums:
                 prev.next = current.next
-                current = current.next
             else:
                 prev = current
-                current = current.next
+
+            current = current.next
 
         return head
