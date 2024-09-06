@@ -1,37 +1,35 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        if len(matrix) == 1 or len(matrix[0]) == 1:
-            return [item for sub_list in matrix for item in sub_list]
+        m, n = len(matrix), len(matrix[0])
+        if m == 1 or n == 1:
+            return [a for arr in matrix for a in arr]
+
+        wall_top, wall_bottom = 0, len(matrix)
+        wall_left, wall_right = -1, len(matrix[0])
 
         i, j = 0, 0
+        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
         direction = 0
 
-        # top right bottom left
-        walls = [-1, len(matrix[0]), len(matrix), -1]
+        output = []
+        while len(output) < m * n:
+            output.append(matrix[i][j])
+            di, dj = directions[direction]
 
-        arr = []
-        while len(arr) < len(matrix) * len(matrix[0]):
-            arr.append(matrix[i][j])
+            i += di
+            j += dj
 
-            if direction == 0:
-                j += 1
-                if j == walls[1] - 1:
-                    direction = 1
-                    walls[0] += 1
-            elif direction == 1:
-                i += 1
-                if i == walls[2] - 1:
-                    direction = 2
-                    walls[1] -= 1
-            elif direction == 2:
-                j -= 1
-                if j == walls[3] + 1:
-                    direction = 3
-                    walls[2] -= 1
-            elif direction == 3:
-                i -= 1
-                if i == walls[0] + 1:
-                    direction = 0
-                    walls[3] += 1
+            if direction == 0 and j + 1 == wall_right:
+                wall_right -= 1
+                direction = 1
+            elif direction == 1 and i + 1 == wall_bottom:
+                wall_bottom -= 1
+                direction = 2
+            elif direction == 2 and j - 1 == wall_left:
+                wall_left += 1
+                direction = 3
+            elif direction == 3 and i - 1 == wall_top:
+                wall_top += 1
+                direction = 0
 
-        return arr
+        return output
