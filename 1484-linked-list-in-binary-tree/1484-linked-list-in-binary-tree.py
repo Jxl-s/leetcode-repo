@@ -11,6 +11,9 @@
 #         self.right = right
 class Solution:
     def isSubPath(self, head: Optional[ListNode], root: Optional[TreeNode]) -> bool:
+        if not root:
+            return False
+
         def dfs(head, node):
             if not head:
                 return True
@@ -23,4 +26,4 @@ class Solution:
             
             return dfs(head.next, node.left) or dfs(head.next, node.right)
         
-        return dfs(head, root) or dfs(head, root.left) or dfs(head, root.right)
+        return dfs(head, root) or self.isSubPath(head, root.left) or self.isSubPath(head, root.right)
