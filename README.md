@@ -36,6 +36,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jxl-s/leetcode-repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -67,6 +68,7 @@
 | [2035-count-sub-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
 |  |
@@ -185,6 +187,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Jxl-s/leetcode-repo/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -248,6 +251,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search Tree
 |  |
