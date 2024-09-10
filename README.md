@@ -187,6 +187,7 @@
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Jxl-s/leetcode-repo/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0206-reverse-linked-list) |
 ## Memoization
 |  |
 | ------- |
