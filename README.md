@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
@@ -135,6 +137,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Jxl-s/leetcode-repo/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jxl-s/leetcode-repo/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
@@ -223,6 +226,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jxl-s/leetcode-repo/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
