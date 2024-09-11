@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Jxl-s/leetcode-repo/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Jxl-s/leetcode-repo/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
