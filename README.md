@@ -33,6 +33,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jxl-s/leetcode-repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Jxl-s/leetcode-repo/tree/master/2048-build-array-from-permutation) |
@@ -135,6 +136,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jxl-s/leetcode-repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -156,6 +158,7 @@
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
 | [1205-defanging-an-ip-address](https://github.com/Jxl-s/leetcode-repo/tree/master/1205-defanging-an-ip-address) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jxl-s/leetcode-repo/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
@@ -253,6 +256,7 @@
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -338,6 +342,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/Jxl-s/leetcode-repo/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
