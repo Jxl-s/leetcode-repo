@@ -44,6 +44,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -351,6 +352,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Backtracking
 |  |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
