@@ -171,6 +171,7 @@
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
 | [1205-defanging-an-ip-address](https://github.com/Jxl-s/leetcode-repo/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jxl-s/leetcode-repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jxl-s/leetcode-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jxl-s/leetcode-repo/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -387,6 +388,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jxl-s/leetcode-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Shortest Path
 |  |
 | ------- |
