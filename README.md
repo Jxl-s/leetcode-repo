@@ -47,6 +47,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -84,6 +85,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
 |  |
@@ -149,6 +151,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Jxl-s/leetcode-repo/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -296,6 +299,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search Tree
 |  |
