@@ -25,6 +25,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/Jxl-s/leetcode-repo/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Jxl-s/leetcode-repo/tree/master/0879-maximize-distance-to-closest-person) |
 | [0906-walking-robot-simulation](https://github.com/Jxl-s/leetcode-repo/tree/master/0906-walking-robot-simulation) |
@@ -336,6 +337,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Jxl-s/leetcode-repo/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jxl-s/leetcode-repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
