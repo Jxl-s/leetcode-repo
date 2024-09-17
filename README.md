@@ -121,6 +121,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Jxl-s/leetcode-repo/tree/master/0155-min-stack) |
@@ -161,6 +162,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Jxl-s/leetcode-repo/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jxl-s/leetcode-repo/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
