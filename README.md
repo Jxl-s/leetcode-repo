@@ -35,6 +35,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1651-shuffle-string) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -179,6 +180,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Jxl-s/leetcode-repo/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jxl-s/leetcode-repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jxl-s/leetcode-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1651-shuffle-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jxl-s/leetcode-repo/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jxl-s/leetcode-repo/tree/master/2076-sum-of-digits-of-string-after-convert) |
