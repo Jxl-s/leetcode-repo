@@ -1,30 +1,31 @@
 class Solution:
     def diffWaysToCompute(self, expression: str) -> List[int]:
         memo = {}
-        def dp(exp):
-            if exp in memo:
-                return memo[exp]
-
-            if exp.isdigit():
-                memo[exp] = [int(exp)]
-                return memo[exp]
+        def dp(i, j):
+            if (i, j) in memo:
+                return memo[(i, j)]
             
-            output = []
-            for i in range(len(exp)):
-                if exp[i] in '-+*':
-                    left = dp(exp[:i])
-                    right = dp(exp[i+1:])
+            cur = expression[i:j+1]
+            if cur.isdigit():
+                memo[(i, j)] = [int(cur)]
+                return memo[(i, j)]
+
+            output = []            
+            for k in range(i, j + 1):
+                if expression[k] in '+-*':
+                    left = dp(i, k - 1)
+                    right = dp(k + 1, j)
 
                     for l in left:
                         for r in right:
-                            if exp[i] == '-':
-                                output.append(l - r)
-                            elif exp[i] == '+':
+                            if expression[k] == '+':
                                 output.append(l + r)
-                            elif exp[i] == '*':
+                            elif expression[k] == '-':
+                                output.append(l - r)
+                            elif expression[k] == '*':
                                 output.append(l * r)
 
-            memo[exp] = output
+            memo[(i, j)] = output
             return output
-
-        return dp(expression)
+        
+        return dp(0, len(expression) - 1)
