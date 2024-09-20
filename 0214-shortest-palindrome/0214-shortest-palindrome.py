@@ -3,11 +3,11 @@ class Solution:
         if not s:
             return s
 
-        def isPalindrome(s):
-            return s[::-1] == s
-
         s2 = s[::-1]
-        for i in range(len(s2)):
-            if isPalindrome(s2[:i] + s):
+        n = len(s)
+
+        for i in range(n):
+            if s.startswith(s2[i:]):
                 return s2[:i] + s
-        
+
+        return s2 + s
