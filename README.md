@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jxl-s/leetcode-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jxl-s/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jxl-s/leetcode-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jxl-s/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jxl-s/leetcode-repo/tree/master/0155-min-stack) |
@@ -458,6 +460,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jxl-s/leetcode-repo/tree/master/0084-largest-rectangle-in-histogram) |
 ## Rolling Hash
 |  |
 | ------- |
