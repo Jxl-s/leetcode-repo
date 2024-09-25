@@ -52,6 +52,7 @@
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -203,6 +204,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jxl-s/leetcode-repo/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2487-optimal-partition-of-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2487-optimal-partition-of-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Jxl-s/leetcode-repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -212,6 +214,7 @@
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Jxl-s/leetcode-repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -317,6 +320,7 @@
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jxl-s/leetcode-repo/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Simulation
 |  |
 | ------- |
