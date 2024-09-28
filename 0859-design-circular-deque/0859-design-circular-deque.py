@@ -1,8 +1,7 @@
 class Node:
     def __init__(self, val=0):
         self.val = val
-        self.prev = None
-        self.next = None
+        self.prev, self.next = None, None
 
 class MyCircularDeque:
     def __init__(self, k: int):
@@ -16,7 +15,7 @@ class MyCircularDeque:
        self.right.prev = self.left
 
     def insertFront(self, value: int) -> bool:
-        if self.size >= self.max_size:
+        if self.isFull():
             return False
 
         node = Node(value)
@@ -29,7 +28,7 @@ class MyCircularDeque:
         return True
 
     def insertLast(self, value: int) -> bool:
-        if self.size >= self.max_size:
+        if self.isFull():
             return False
 
         node = Node(value)
@@ -42,11 +41,12 @@ class MyCircularDeque:
         return True
 
     def deleteFront(self) -> bool:
-        if self.size == 0:
+        if self.isEmpty():
             return False
 
         node = self.left.next
         prev, next = node.prev, node.next
+
         prev.next, next.prev = next, prev
         node.prev, node.next = None, None
 
@@ -54,7 +54,7 @@ class MyCircularDeque:
         return True
 
     def deleteLast(self) -> bool:
-        if self.size == 0:
+        if self.isEmpty():
             return False
 
         node = self.right.prev
@@ -67,13 +67,13 @@ class MyCircularDeque:
         return True
 
     def getFront(self) -> int:
-        if self.size == 0:
+        if self.isEmpty():
             return -1
 
         return self.left.next.val
 
     def getRear(self) -> int:
-        if self.size == 0:
+        if self.isEmpty():
             return -1
 
         return self.right.prev.val
