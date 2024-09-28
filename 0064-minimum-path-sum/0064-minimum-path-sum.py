@@ -3,21 +3,17 @@ class Solution:
         m = len(grid)
         n = len(grid[0])
 
-        memo = {}
-        def dp(i, j):
-            if (i, j) in memo:
-                return memo[(i, j)]
+        dp = [[0] * n for _ in range(m)]
+        dp[0][0] = grid[0][0]
 
-            if i >= m or j >= n:
-                return float('inf')
+        for i in range(1, n):
+            dp[0][i] = grid[0][i] + dp[0][i - 1]
 
-            if i == m - 1 and j == n - 1:
-                return grid[i][j]
-            
-            down = dp(i + 1, j)
-            right = dp(i, j + 1)
+        for i in range(1, m):
+            dp[i][0] = grid[i][0] + dp[i - 1][0]
 
-            memo[(i, j)] = grid[i][j] + min(down, right)
-            return memo[(i, j)]
-        
-        return dp(0, 0)
+        for i in range(1, m):
+            for j in range(1, n):
+                dp[i][j] = grid[i][j] + min(dp[i - 1][j], dp[i][j - 1])
+
+        return dp[-1][-1]
