@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Jxl-s/leetcode-repo/tree/master/0066-plus-one) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
@@ -509,6 +511,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0334-increasing-triplet-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2487-optimal-partition-of-string) |
