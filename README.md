@@ -20,6 +20,7 @@
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jxl-s/leetcode-repo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/Jxl-s/leetcode-repo/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jxl-s/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
@@ -236,6 +237,7 @@
 | [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Jxl-s/leetcode-repo/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Jxl-s/leetcode-repo/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0241-different-ways-to-add-parentheses) |
