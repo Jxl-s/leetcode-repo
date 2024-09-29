@@ -1,97 +1,105 @@
 class Node:
     def __init__(self, val=0):
         self.val = val
-        self.next, self.prev = None, None
-        self.words = set()
-
-    def add_word(self, word):
-        self.words.add(word)
-    
-    def remove_word(self, word):
-        self.words.remove(word)
-
-    def is_empty(self):
-        return len(self.words) == 0
-    
-    def destroy(self):
-        prev, next = self.prev, self.next
-        if prev and next:
-            prev.next, next.prev = next, prev
-
+        self.strings = set()
         self.prev, self.next = None, None
 
-class AllOne:
-    def __init__(self):
-        self.counter = {}
+    def add(self, word):
+        self.strings.add(word)
+    
+    def remove(self, word):
+        self.strings.remove(word)
 
+    def is_empty(self):
+        return len(self.strings) == 0
+
+class DoublyList:
+    def __init__(self):
         self.left = Node()
         self.right = Node()
-
+        
         self.left.next = self.right
         self.right.prev = self.left
 
+    def delete(self, node):
+        prev, next = node.prev, node.next
+        prev.next, next.prev = next, prev
+
+    def add_after(self, node, new_node):
+        prev, next = node, node.next
+        prev.next, next.prev = new_node, new_node
+        new_node.prev, new_node.next = prev, next
+
+    def add_before(self, node, new_node):
+        prev, next = node.prev, node
+        prev.next, next.prev = new_node, new_node
+        new_node.prev, new_node.next = prev, next
+
+class AllOne:
+
+    def __init__(self):
+        self.list = DoublyList()
+        self.map = {}
+
     def inc(self, key: str) -> None:
-        node = self.left
+        node = self.list.left
 
-        if key in self.counter:
-            node = self.counter[key]
-            node.remove_word(key)
-
-        # Switching node for the word
-        # if the next node exists, add it to it
+        if key in self.map:
+            node = self.map[key]
+            node.remove(key)
+        
         if node.next.val == node.val + 1:
-            self.counter[key] = node.next
-            node.next.add_word(key)
+            self.map[key] = node.next
+            self.map[key].add(key)
         else:
-            # else we create the new node
-            prev, next = node, node.next
+            # create the new node
             new_node = Node(node.val + 1)
-            new_node.prev, new_node.next = prev, next
-            prev.next, next.prev = new_node, new_node
+            new_node.add(key)
 
-            new_node.add_word(key)
-            self.counter[key] = new_node
-
-        if node.is_empty() and node != self.left:  
-            node.destroy()
-
+            self.map[key] = new_node
+            self.list.add_after(node, new_node)
+        
+        if node.is_empty() and node.val > 0:
+            self.list.delete(node)
 
     def dec(self, key: str) -> None:
-        node = self.right
+        if key in self.map:
+            node = self.map[key]
+            node.remove(key)
+        
+        if node.val - 1 == 0:
+            if node.is_empty():
+                self.list.delete(node)
 
-        if key in self.counter:
-            node = self.counter[key]
-            node.remove_word(key)
+            del self.map[key]
+            return
 
-        # Switching node for the word
-        # if the next node exists, add it to it
         if node.prev.val == node.val - 1:
-            self.counter[key] = node.prev
-            node.prev.add_word(key)
+            self.map[key] = node.prev
+            self.map[key].add(key)
         else:
-            # else we create the new node
-            prev, next = node.prev, node
+            # create the new node
             new_node = Node(node.val - 1)
-            new_node.prev, new_node.next = prev, next
-            prev.next, next.prev = new_node, new_node
+            new_node.add(key)
 
-            new_node.add_word(key)
-            self.counter[key] = new_node
-
-        if node.is_empty() and node != self.right:
-            node.destroy()
+            self.map[key] = new_node
+            self.list.add_before(node, new_node)
+        
+        if node.is_empty() and node.val > 0:
+            self.list.delete(node)
 
     def getMaxKey(self) -> str:
-        if self.right.prev == self.left:
+        if self.list.right.prev == self.list.left:
             return ""
-
-        return next(iter(self.right.prev.words))
+        
+        return next(iter(self.list.right.prev.strings))
 
     def getMinKey(self) -> str:
-        if self.left.next == self.right:
+        if self.list.left.next == self.list.right:
             return ""
+        
+        return next(iter(self.list.left.next.strings))
 
-        return next(iter(self.left.next.words))
 
 # Your AllOne object will be instantiated and called as such:
 # obj = AllOne()
