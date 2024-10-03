@@ -14,7 +14,10 @@ class Solution:
             cur += num
             mod = cur % p
 
-            compl = (mod - rem) % p
+            compl = mod - rem
+            if compl < 0:
+                compl += p
+
             if compl in remainders:
                 shortest = min(shortest, i - remainders[compl])
 
