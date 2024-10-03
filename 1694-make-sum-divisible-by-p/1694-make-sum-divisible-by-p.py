@@ -6,18 +6,18 @@ class Solution:
         if rem == 0:
             return 0
 
-        remainders = { 0: -1 }
-        prefix = 0
+        remainders = {0:-1}
         shortest = len(nums)
 
+        cur = 0
         for i, num in enumerate(nums):
-            prefix += num
-            mod = prefix % p
-            complement = (mod - rem) % p
+            cur += num
+            mod = cur % p
 
-            if complement in remainders:
-                shortest = min(shortest, i - remainders[complement])
-            
+            compl = (mod - rem) % p
+            if compl in remainders:
+                shortest = min(shortest, i - remainders[compl])
+
             remainders[mod] = i
-
-        return shortest if shortest != len(nums) else -1
+        
+        return shortest if shortest < len(nums) else -1
