@@ -293,6 +293,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Jxl-s/leetcode-repo/tree/master/0725-split-linked-list-in-parts) |
@@ -333,6 +334,7 @@
 | [0016-3sum-closest](https://github.com/Jxl-s/leetcode-repo/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
@@ -455,6 +457,7 @@
 | [0016-3sum-closest](https://github.com/Jxl-s/leetcode-repo/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Jxl-s/leetcode-repo/tree/master/0443-string-compression) |
@@ -516,10 +519,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 ## Number Theory
 |  |
 | ------- |
