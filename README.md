@@ -156,6 +156,7 @@
 | [0155-min-stack](https://github.com/Jxl-s/leetcode-repo/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Jxl-s/leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jxl-s/leetcode-repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jxl-s/leetcode-repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -234,6 +235,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jxl-s/leetcode-repo/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jxl-s/leetcode-repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2487-optimal-partition-of-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -469,6 +471,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jxl-s/leetcode-repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Topological Sort
 |  |
@@ -565,6 +568,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0334-increasing-triplet-subsequence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jxl-s/leetcode-repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2487-optimal-partition-of-string) |
 ## Segment Tree
 |  |
