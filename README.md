@@ -297,6 +297,7 @@
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0206-reverse-linked-list) |
@@ -463,6 +464,7 @@
 | [0015-3sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jxl-s/leetcode-repo/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Jxl-s/leetcode-repo/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
