@@ -434,6 +434,7 @@
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/Jxl-s/leetcode-repo/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Jxl-s/leetcode-repo/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
@@ -593,6 +594,7 @@
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Jxl-s/leetcode-repo/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jxl-s/leetcode-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jxl-s/leetcode-repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
