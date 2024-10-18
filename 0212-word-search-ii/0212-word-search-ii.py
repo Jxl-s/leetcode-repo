@@ -13,29 +13,28 @@ class Solution:
 
             root['.'] = w
 
-        output = []
+        output = set()
         visited = [[False] * n for i in range(m)]
         directions = [(0, -1), (0, 1), (-1, 0), (1, 0)]
 
         def dfs(i, j, root):
-            if i < 0 or i >= m or j < 0 or j >= n:
-                return
-
             if visited[i][j]:
                 return
-            
+
             visited[i][j] = True
             if board[i][j] in root:
                 if '.' in root[board[i][j]]:
-                    output.append(root[board[i][j]]['.'])
+                    output.add(root[board[i][j]]['.'])
 
                 for di, dj in directions:
-                    dfs(i + di, j + dj, root[board[i][j]])
-            
+                    ni, nj = i + di, j + dj
+                    if ni >= 0 and ni < m and nj >= 0 and nj < n:
+                        dfs(ni, nj, root[board[i][j]])
+
             visited[i][j] = False
         
         for i in range(m):
             for j in range(n):
                 dfs(i, j, trie)
 
-        return output
+        return list(output)
