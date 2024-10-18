@@ -22,19 +22,20 @@ class Solution:
                 return
 
             visited[i][j] = True
-            if board[i][j] in root:
-                if '.' in root[board[i][j]]:
-                    output.add(root[board[i][j]]['.'])
 
-                for di, dj in directions:
-                    ni, nj = i + di, j + dj
-                    if ni >= 0 and ni < m and nj >= 0 and nj < n:
-                        dfs(ni, nj, root[board[i][j]])
+            if '.' in root[board[i][j]]:
+                output.add(root[board[i][j]]['.'])
+
+            for di, dj in directions:
+                ni, nj = i + di, j + dj
+                if ni >= 0 and ni < m and nj >= 0 and nj < n and board[ni][nj] in root[board[i][j]]:
+                    dfs(ni, nj, root[board[i][j]])
 
             visited[i][j] = False
         
         for i in range(m):
             for j in range(n):
-                dfs(i, j, trie)
+                if board[i][j] in trie:
+                    dfs(i, j, trie)
 
         return list(output)
