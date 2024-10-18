@@ -71,6 +71,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jxl-s/leetcode-repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -509,6 +510,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jxl-s/leetcode-repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -521,6 +523,7 @@
 | [0077-combinations](https://github.com/Jxl-s/leetcode-repo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -546,6 +549,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
 ## Divide and Conquer
 |  |
