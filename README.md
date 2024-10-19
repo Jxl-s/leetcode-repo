@@ -242,6 +242,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jxl-s/leetcode-repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jxl-s/leetcode-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Jxl-s/leetcode-repo/tree/master/1205-defanging-an-ip-address) |
 | [1304-longest-happy-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jxl-s/leetcode-repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -445,6 +446,7 @@
 | [0670-maximum-swap](https://github.com/Jxl-s/leetcode-repo/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/Jxl-s/leetcode-repo/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jxl-s/leetcode-repo/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
