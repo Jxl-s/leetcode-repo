@@ -6,14 +6,12 @@ class Solution:
         columns = defaultdict(int)
 
         for i in range(n):
-            rows[tuple(grid[i])] += 1
+            row_hashed = tuple(grid[i])
+            col_hashed = tuple([grid[j][i] for j in range(n)])
 
-            col = [0] * n
-            for j in range(n):
-                col[j] = grid[j][i]
+            rows[row_hashed] += 1
+            columns[col_hashed] += 1
 
-            columns[tuple(col)] += 1
-        
         pairs = 0
         for hashed in rows.keys():
             pairs += rows[hashed] * columns[hashed]
