@@ -246,6 +246,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jxl-s/leetcode-repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jxl-s/leetcode-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jxl-s/leetcode-repo/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1923-sentence-similarity-iii) |
@@ -403,6 +404,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/Jxl-s/leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Jxl-s/leetcode-repo/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jxl-s/leetcode-repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Jxl-s/leetcode-repo/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2058-concatenation-of-array) |
@@ -459,6 +461,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
