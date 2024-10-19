@@ -1,30 +1,25 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        k = -1
+        chars.append(' ')
 
-        cur_c = chars[0]
-        cur_count = 1
+        count = 1
+        prev = chars[0]
+        k = 0
 
-        for i in range(1, len(chars) + 1):
-            c = chars[i] if i < len(chars) else ''
-            if c == cur_c:
-                cur_count += 1
+        for i in range(1, len(chars)):
+            if chars[i] == prev:
+                count += 1
             else:
+                prev = chars[i]
+
+                chars[k] = chars[i - 1]
                 k += 1
-                chars[k] = cur_c
 
-                if cur_count > 1:
-                    digits = []
-                    while cur_count > 0:
-                        digit = cur_count % 10
-                        cur_count //= 10
-                        digits.append(str(digit))
-
-                    for n in digits[::-1]:
+                if count > 1:
+                    for c in str(count):
+                        chars[k] = c
                         k += 1
-                        chars[k] = n
 
-                cur_count = 1
-                cur_c = c
+                count = 1
 
-        return k + 1
+        return k
