@@ -188,6 +188,7 @@
 | [0729-my-calendar-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/Jxl-s/leetcode-repo/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
 ## Hash Table
 |  |
@@ -655,8 +656,13 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/Jxl-s/leetcode-repo/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Jxl-s/leetcode-repo/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
