@@ -20,8 +20,8 @@ class Solution:
                 
                 if prev_symbol == '|' and 't' not in current:
                     result = 'f'
-                
-                if prev_symbol == '!' and 't' in current:
+
+                if prev_symbol == '!' and current == 't':
                     result = 'f'
 
                 current = prev_expression + result
