@@ -10,8 +10,8 @@ class Solution:
         def dfs(node, depth):
             if not node:
                 return
-            
-            if len(view) <= depth:
+
+            if len(view) == depth:
                 view.append(node.val)
 
             dfs(node.right, depth + 1)
