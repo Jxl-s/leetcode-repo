@@ -1,7 +1,13 @@
 class Solution:
     def numTilings(self, n: int) -> int:
-        dp = [0, 1, 2, 5] + [0] * (n - 3)
-        for i in range(4, n + 1):
-            dp[i] = (dp[i - 1] * 2 + dp[i - 3]) % (10**9 + 7)
+        a, b, c = 1, 2, 5
 
-        return dp[n]
+        if n == 1: return a
+        if n == 2: return b
+        if n == 3: return c
+
+        for i in range(4, n + 1):
+            result = (c * 2 + a) % (10**9 + 7)
+            a, b, c = b, c, result
+
+        return c
