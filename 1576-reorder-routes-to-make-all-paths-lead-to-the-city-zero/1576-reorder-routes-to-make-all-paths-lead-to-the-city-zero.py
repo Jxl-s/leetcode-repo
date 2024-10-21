@@ -1,25 +1,30 @@
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
         adj = [[] for _ in range(n)]
-
         for a, b in connections:
             adj[a].append((b, True))
-            adj[b].append((a, False)) # not original
-
+            adj[b].append((a, False))
+        
+        seen = set()
         count = 0
 
-        visited = set()
-        def dfs(node, flip):
+        def dfs(node):
             nonlocal count
-            if node in visited:
-                return
+            if node is None:
+                return 0
             
-            if flip:
-                count += 1
+            if node in seen:
+                return 0
 
-            visited.add(node)
-            for neighbor, should_flip in adj[node]:
-                dfs(neighbor, should_flip)
-        
-        dfs(0, False)
+            seen.add(node)
+            for neighbor, correct in adj[node]:
+                if neighbor in seen:
+                    continue
+
+                if correct:
+                    count += 1
+                
+                dfs(neighbor)
+
+        dfs(0)
         return count
