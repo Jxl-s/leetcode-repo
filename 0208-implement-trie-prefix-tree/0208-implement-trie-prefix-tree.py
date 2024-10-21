@@ -6,34 +6,30 @@ class Trie:
     def insert(self, word: str) -> None:
         root = self.root
         for c in word:
-            if c in root:
-                root = root[c]
-            else:
+            if c not in root:
                 root[c] = {}
-                root = root[c]
 
-        root['.'] = True
+            root = root[c]
+        
+        root['-'] = True
 
     def search(self, word: str) -> bool:
         root = self.root
         for c in word:
-            if c in root:
-                root = root[c]
-            else:
+            if c not in root:
                 return False
-        
-        if '.' in root:
-            return True
 
-        return False
+            root = root[c]
+        
+        return '-' in root
 
     def startsWith(self, prefix: str) -> bool:
         root = self.root
         for c in prefix:
-            if c in root:
-                root = root[c]
-            else:
+            if c not in root:
                 return False
+
+            root = root[c]
         
         return True
 
