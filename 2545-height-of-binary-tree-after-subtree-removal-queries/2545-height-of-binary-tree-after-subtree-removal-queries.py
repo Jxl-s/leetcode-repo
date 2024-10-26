@@ -6,40 +6,39 @@
 #         self.right = right
 class Solution:
     def treeQueries(self, root: Optional[TreeNode], queries: List[int]) -> List[int]:
-        depths = {}
-        grouped = {}
+        depths = defaultdict(int)
+        heights = defaultdict(list) # cousins of the node, and their maximum depths
 
         def dfs(node, depth):
             if not node:
                 return -1
-
+            
             depths[node.val] = depth
+
             height = 1 + max(dfs(node.left, depth + 1), dfs(node.right, depth + 1))
-
-            if depth not in grouped:
-                grouped[depth] = []
-
-            grouped[depth].append((height + depth, node.val))
-            grouped[depth].sort(reverse = True)
-            if len(grouped[depth]) > 2:
-                grouped[depth].pop()
+            heights[depth].append((depth + height, node.val))
 
             return height
 
         dfs(root, 0)
-        output = [0] * len(queries)
 
-        for i, q in enumerate(queries):
+        for k in heights.keys():
+            heights[k].sort(reverse=True)
+
+        output = []
+        for q in queries:
             depth = depths[q]
-            options = grouped[depth]
 
-            if len(options) == 1:
-                output[i] = depth - 1
+            # if it has no cousins, its just the node's parent
+            if len(heights[depth]) == 1:
+                output.append(depth - 1)
                 continue
+            
+            level_heights = heights[depth]
 
-            first_height, first_node = options[0]
-            second_height, _ = options[1]
-
-            output[i] = second_height if q == first_node else first_height
+            h1, n1 = level_heights[0]
+            h2, n2 = level_heights[1]
+            # if its highest, then its 2nd, otherwise its highest
+            output.append(h2 if q == n1 else h1)
 
         return output
