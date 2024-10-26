@@ -93,6 +93,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -126,6 +127,7 @@
 | [2035-count-sub-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Jxl-s/leetcode-repo/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/2121-find-if-path-exists-in-graph) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
@@ -180,6 +182,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jxl-s/leetcode-repo/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/2121-find-if-path-exists-in-graph) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
@@ -407,6 +410,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -428,6 +432,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
