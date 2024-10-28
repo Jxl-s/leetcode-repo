@@ -97,6 +97,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -263,6 +264,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2487-optimal-partition-of-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
@@ -364,6 +366,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jxl-s/leetcode-repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 ## Graph
 |  |
@@ -461,6 +464,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jxl-s/leetcode-repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
@@ -527,6 +531,7 @@
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jxl-s/leetcode-repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
 |  |
 | ------- |
