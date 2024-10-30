@@ -34,6 +34,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Jxl-s/leetcode-repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Jxl-s/leetcode-repo/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
@@ -351,6 +352,7 @@
 | [0198-house-robber](https://github.com/Jxl-s/leetcode-repo/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0392-is-subsequence) |
@@ -523,6 +525,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jxl-s/leetcode-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0731-my-calendar-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0783-search-in-a-binary-search-tree) |
