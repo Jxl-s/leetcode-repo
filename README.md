@@ -330,6 +330,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jxl-s/leetcode-repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Jxl-s/leetcode-repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
 | ------- |
