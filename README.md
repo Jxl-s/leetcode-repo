@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jxl-s/leetcode-repo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Jxl-s/leetcode-repo/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jxl-s/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -240,6 +241,7 @@
 | [0001-two-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
@@ -414,6 +416,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
@@ -439,6 +442,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
@@ -702,6 +706,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
