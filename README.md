@@ -230,6 +230,7 @@
 | [0155-min-stack](https://github.com/Jxl-s/leetcode-repo/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jxl-s/leetcode-repo/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
@@ -249,6 +250,7 @@
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jxl-s/leetcode-repo/tree/master/0535-encode-and-decode-tinyurl) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
@@ -300,6 +302,7 @@
 | [0394-decode-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Jxl-s/leetcode-repo/tree/master/0443-string-compression) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jxl-s/leetcode-repo/tree/master/0535-encode-and-decode-tinyurl) |
 | [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Jxl-s/leetcode-repo/tree/master/0664-strange-printer) |
@@ -739,6 +742,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Jxl-s/leetcode-repo/tree/master/0535-encode-and-decode-tinyurl) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
