@@ -578,6 +578,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jxl-s/leetcode-repo/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/Jxl-s/leetcode-repo/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
 | [2556-convert-the-temperature](https://github.com/Jxl-s/leetcode-repo/tree/master/2556-convert-the-temperature) |
@@ -724,6 +725,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Jxl-s/leetcode-repo/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Monotonic Stack
