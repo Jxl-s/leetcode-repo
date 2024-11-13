@@ -107,6 +107,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jxl-s/leetcode-repo/tree/master/3291-find-if-array-can-be-sorted) |
@@ -493,6 +494,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jxl-s/leetcode-repo/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
@@ -562,6 +564,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jxl-s/leetcode-repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Jxl-s/leetcode-repo/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
@@ -654,6 +657,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jxl-s/leetcode-repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Topological Sort
 |  |
 | ------- |
