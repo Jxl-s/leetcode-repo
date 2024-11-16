@@ -118,6 +118,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Jxl-s/leetcode-repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jxl-s/leetcode-repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -722,6 +723,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jxl-s/leetcode-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jxl-s/leetcode-repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Shortest Path
 |  |
 | ------- |
