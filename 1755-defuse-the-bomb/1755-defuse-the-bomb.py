@@ -7,17 +7,13 @@ class Solution:
             prefix[i + 1] = prefix[i] + code[i % n]
 
         output = [0] * n
-        if k == 0:
-            return output
 
         if k > 0:
             for i in range(n):
                 output[i] = prefix[i + k + 1] - prefix[i + 1]
-            
-            return output
-        
+
         if k < 0:
             for i in range(n):
                 output[i] = prefix[i + n] - prefix[i + n + k]
 
-            return output
+        return output
