@@ -78,6 +78,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jxl-s/leetcode-repo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Jxl-s/leetcode-repo/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/Jxl-s/leetcode-repo/tree/master/1694-make-sum-divisible-by-p) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1755-defuse-the-bomb](https://github.com/Jxl-s/leetcode-repo/tree/master/1755-defuse-the-bomb) |
@@ -755,6 +756,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Jxl-s/leetcode-repo/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
 ## Divide and Conquer
