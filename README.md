@@ -64,6 +64,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1046-max-consecutive-ones-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jxl-s/leetcode-repo/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Jxl-s/leetcode-repo/tree/master/1319-unique-number-of-occurrences) |
@@ -167,6 +168,7 @@
 | [0695-max-area-of-island](https://github.com/Jxl-s/leetcode-repo/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jxl-s/leetcode-repo/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jxl-s/leetcode-repo/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2035-count-sub-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/2035-count-sub-islands) |
@@ -283,6 +285,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jxl-s/leetcode-repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jxl-s/leetcode-repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jxl-s/leetcode-repo/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Jxl-s/leetcode-repo/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jxl-s/leetcode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
