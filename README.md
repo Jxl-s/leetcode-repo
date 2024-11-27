@@ -126,6 +126,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Jxl-s/leetcode-repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jxl-s/leetcode-repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Breadth-First Search
 |  |
@@ -160,6 +161,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -437,6 +439,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jxl-s/leetcode-repo/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/2121-find-if-path-exists-in-graph) |
 | [3189-find-champion-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Linked List
 |  |
 | ------- |
