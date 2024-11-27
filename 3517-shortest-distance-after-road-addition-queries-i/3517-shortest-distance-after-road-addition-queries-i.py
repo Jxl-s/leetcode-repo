@@ -1,31 +1,28 @@
 class Solution:
     def shortestDistanceAfterQueries(self, n: int, queries: List[List[int]]) -> List[int]:
-        adj = [[False] * n for _ in range(n)]
+        adj = [[] for _ in range(n)]
         for i in range(1, n):
-            adj[i - 1][i] = True
-        
+            adj[i - 1].append(i)
+
         answer = []
         distances = list(range(n))
 
         for u, v in queries:
-            adj[u][v] = True
+            adj[u].append(v)
             distances[v] = min(distances[v], distances[u] + 1)
-
-            # stuff after added road recalculate
             heap = [(distances[v], v)]
-            while len(heap) > 0:
-                distance, node = heapq.heappop(heap)
-                if distance > distances[node]:
+
+            while heap:
+                cur, node = heapq.heappop(heap)
+                if cur > distances[node]:
                     continue
-                
-                for i in range(n):
-                    if not adj[node][i]:
-                        continue
-                    
-                    if distance + 1 < distances[i]:
-                        heapq.heappush(heap, (distance + 1, i))
-                        distances[i] = distance + 1
+
+                for neighbor in adj[node]:
+                    new_dist = cur + 1
+                    if new_dist < distances[neighbor]:
+                        distances[neighbor] = new_dist
+                        heapq.heappush(heap, (new_dist, neighbor))
 
             answer.append(distances[-1])
-
+        
         return answer
