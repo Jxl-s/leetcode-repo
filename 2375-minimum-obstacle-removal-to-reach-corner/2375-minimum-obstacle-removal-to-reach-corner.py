@@ -17,7 +17,10 @@ class Solution:
                 new_distance = distances[i][j] + grid[ni][nj]
                 if new_distance >= distances[ni][nj]:
                     continue
-                
+
+                if ni == m - 1 and nj == n - 1:
+                    return new_distance
+
                 distances[ni][nj] = new_distance
                 if grid[ni][nj] == 0:
                     queue.appendleft((ni, nj))
