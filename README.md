@@ -28,6 +28,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Jxl-s/leetcode-repo/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jxl-s/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
@@ -729,6 +730,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Jxl-s/leetcode-repo/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
