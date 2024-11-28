@@ -106,6 +106,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Jxl-s/leetcode-repo/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Jxl-s/leetcode-repo/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jxl-s/leetcode-repo/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jxl-s/leetcode-repo/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jxl-s/leetcode-repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -159,6 +160,7 @@
 | [2035-count-sub-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Jxl-s/leetcode-repo/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jxl-s/leetcode-repo/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -187,6 +189,7 @@
 | [2089-maximum-matrix-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jxl-s/leetcode-repo/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jxl-s/leetcode-repo/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Jxl-s/leetcode-repo/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -441,6 +444,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jxl-s/leetcode-repo/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jxl-s/leetcode-repo/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Linked List
@@ -558,6 +562,7 @@
 | [1304-longest-happy-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Jxl-s/leetcode-repo/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jxl-s/leetcode-repo/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jxl-s/leetcode-repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Jxl-s/leetcode-repo/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -770,6 +775,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jxl-s/leetcode-repo/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Database
 |  |
 | ------- |
