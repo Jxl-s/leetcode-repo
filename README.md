@@ -636,6 +636,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Jxl-s/leetcode-repo/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Jxl-s/leetcode-repo/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
