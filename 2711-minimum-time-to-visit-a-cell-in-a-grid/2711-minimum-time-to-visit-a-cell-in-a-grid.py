@@ -21,7 +21,10 @@ class Solution:
                     continue
 
                 delay = 1
+                # if can't do one step, move between 2 nodes until it reaches time
                 if time + delay < grid[ni][nj]:
+                    # that caused floating point error:
+                    # delay = ceil((grid[ni][nj] - time) / 2) * 2 + 1
                     delay = grid[ni][nj] - time
                     if delay % 2 == 0:
                         delay += 1
