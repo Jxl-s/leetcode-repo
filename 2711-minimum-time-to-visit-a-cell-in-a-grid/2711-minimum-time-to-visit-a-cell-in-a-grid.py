@@ -11,11 +11,6 @@ class Solution:
 
         while heap:
             time, i, j = heapq.heappop(heap)
-            if visited[i][j]:
-                continue
-
-            visited[i][j] = True
-
             for di, dj in directions:
                 ni, nj = i + di, j + dj
                 if ni < 0 or nj < 0 or ni >= m or nj >= n or visited[ni][nj]:
@@ -33,6 +28,7 @@ class Solution:
                 if ni == m - 1 and nj == n - 1:
                     return time + delay
 
+                visited[ni][nj] = True
                 heapq.heappush(heap, (time + delay, ni, nj))
 
         return -1
