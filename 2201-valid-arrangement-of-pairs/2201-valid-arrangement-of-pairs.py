@@ -8,19 +8,12 @@ class Solution:
             degree[a] += 1
             degree[b] -= 1
 
-        def euler(node):
-            stack = [node]
-            circuit = []
+        def euler(node, output=[]):
+            while len(adj[node]) > 0:
+                euler(adj[node].pop(), output)
 
-            while stack:
-                v = stack[-1]
-                if adj[v]:
-                    u = adj[v].pop()
-                    stack.append(u)
-                else:
-                    circuit.append(stack.pop())
-            
-            return circuit[::-1]
+            output.append(node)
+            return output[::-1]
 
         # Find start euler node
         start = None
