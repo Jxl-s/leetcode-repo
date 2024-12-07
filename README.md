@@ -155,6 +155,7 @@
 | [0695-max-area-of-island](https://github.com/Jxl-s/leetcode-repo/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/Jxl-s/leetcode-repo/tree/master/0787-sliding-puzzle) |
 | [0871-keys-and-rooms](https://github.com/Jxl-s/leetcode-repo/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
@@ -227,6 +228,7 @@
 | [0695-max-area-of-island](https://github.com/Jxl-s/leetcode-repo/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/Jxl-s/leetcode-repo/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Jxl-s/leetcode-repo/tree/master/0904-leaf-similar-trees) |
@@ -454,6 +456,7 @@
 | [0310-minimum-height-trees](https://github.com/Jxl-s/leetcode-repo/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/Jxl-s/leetcode-repo/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jxl-s/leetcode-repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
@@ -577,6 +580,7 @@
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jxl-s/leetcode-repo/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
@@ -805,6 +809,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Jxl-s/leetcode-repo/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Jxl-s/leetcode-repo/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
