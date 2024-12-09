@@ -776,6 +776,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Jxl-s/leetcode-repo/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
@@ -845,6 +846,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
