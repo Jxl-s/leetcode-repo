@@ -482,6 +482,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jxl-s/leetcode-repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
@@ -700,6 +701,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0394-decode-string) |
