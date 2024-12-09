@@ -9,20 +9,10 @@ class Solution:
 
         output = []
         for start, end in queries:
-            # Find first one starting after start
-            left = 0
-            right = len(starts)
-
-            while left < right:
-                mid = (left + right) // 2
-                if starts[mid] < start+1:
-                    left = mid + 1
-                else:
-                    right = mid
-
-            if left >= len(starts):
+            index = bisect_right(starts, start)
+            if index >= len(starts):
                 output.append(True)
             else:
-                output.append(starts[left] > end)
+                output.append(starts[index] > end)
 
         return output
