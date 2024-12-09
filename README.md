@@ -302,6 +302,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Jxl-s/leetcode-repo/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
@@ -352,6 +353,7 @@
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0214-shortest-palindrome) |
