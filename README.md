@@ -477,6 +477,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jxl-s/leetcode-repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
