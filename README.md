@@ -337,6 +337,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Jxl-s/leetcode-repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -402,6 +403,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jxl-s/leetcode-repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jxl-s/leetcode-repo/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Jxl-s/leetcode-repo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/3451-string-compression-iii) |
@@ -616,6 +618,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Jxl-s/leetcode-repo/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
 |  |
 | ------- |
@@ -666,6 +669,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jxl-s/leetcode-repo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/3427-special-array-ii) |
 ## Math
 |  |
@@ -822,6 +826,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jxl-s/leetcode-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jxl-s/leetcode-repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Jxl-s/leetcode-repo/tree/master/1755-defuse-the-bomb) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Shortest Path
 |  |
