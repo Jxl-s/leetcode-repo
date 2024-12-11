@@ -129,6 +129,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Jxl-s/leetcode-repo/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jxl-s/leetcode-repo/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -851,6 +852,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/Jxl-s/leetcode-repo/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
 ## Divide and Conquer
 |  |
