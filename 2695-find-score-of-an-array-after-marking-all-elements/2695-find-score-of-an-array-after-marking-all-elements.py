@@ -1,21 +1,22 @@
 class Solution:
     def findScore(self, nums: List[int]) -> int:
-        marked = set()
-        heap = []
-        score = 0
+        n = len(nums)
 
-        for i, n in enumerate(nums):
-            heap.append((n, i))
-        
+        score = 0
+        marked = [False] * n
+
+        heap = [(x, i) for i, x in enumerate(nums)]
         heapq.heapify(heap)
-        while len(heap) > 0:
-            item, index = heapq.heappop(heap)
-            if index in marked:
+
+        while heap:
+            x, i = heapq.heappop(heap)
+            if marked[i]:
                 continue
             
-            score += item
-            marked.add(index)
-            marked.add(index - 1)
-            marked.add(index + 1)
+            marked[i] = True
+            if i - 1 >= 0: marked[i - 1] = True
+            if i + 1 < n: marked[i + 1] = True
+
+            score += x
 
         return score
