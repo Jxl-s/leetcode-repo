@@ -3,34 +3,18 @@ class Solution:
         m, n = len(matrix), len(matrix[0])
 
         left = 0
-        right = m - 1
-        row = -1
+        right = m * n - 1
 
         while left <= right:
             mid = (left + right) // 2
-            if matrix[mid][0] <= target and target <= matrix[mid][-1]:
-                row = mid
-                break
+            value = matrix[mid // n][mid % n]
 
-            if target < matrix[mid][0]:
-                right = mid - 1
-            elif target > matrix[mid][-1]:
-                left = mid + 1
-        
-        if row == -1:
-            return False
-        
-        left = 0
-        right = n - 1
-
-        while left <= right:
-            mid = (left + right) // 2
-            if matrix[row][mid] == target:
+            if value == target:
                 return True
-            
-            if target < matrix[row][mid]:
+
+            if target < value:
                 right = mid - 1
-            elif target > matrix[row][mid]:
+            else:
                 left = mid + 1
-        
+
         return False
