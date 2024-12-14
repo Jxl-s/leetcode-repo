@@ -132,6 +132,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jxl-s/leetcode-repo/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -611,6 +612,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jxl-s/leetcode-repo/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Jxl-s/leetcode-repo/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -836,6 +838,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jxl-s/leetcode-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jxl-s/leetcode-repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Jxl-s/leetcode-repo/tree/master/1755-defuse-the-bomb) |
+| [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -939,12 +942,14 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jxl-s/leetcode-repo/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/Jxl-s/leetcode-repo/tree/master/0969-number-of-recent-calls) |
+| [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -965,6 +970,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jxl-s/leetcode-repo/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
 |  |
 | ------- |
