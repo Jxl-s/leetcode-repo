@@ -39,6 +39,7 @@
 | [0212-word-search-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Jxl-s/leetcode-repo/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Jxl-s/leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Jxl-s/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
@@ -597,6 +598,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Jxl-s/leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
@@ -830,6 +832,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Jxl-s/leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0643-maximum-average-subarray-i) |
@@ -946,6 +949,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Jxl-s/leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jxl-s/leetcode-repo/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/Jxl-s/leetcode-repo/tree/master/0969-number-of-recent-calls) |
@@ -969,6 +973,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Jxl-s/leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jxl-s/leetcode-repo/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
