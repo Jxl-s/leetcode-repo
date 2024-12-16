@@ -144,6 +144,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jxl-s/leetcode-repo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Jxl-s/leetcode-repo/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -657,6 +659,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jxl-s/leetcode-repo/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jxl-s/leetcode-repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -718,6 +721,7 @@
 | [2998-count-symmetric-integers](https://github.com/Jxl-s/leetcode-repo/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jxl-s/leetcode-repo/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jxl-s/leetcode-repo/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jxl-s/leetcode-repo/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
