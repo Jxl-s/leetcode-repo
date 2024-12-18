@@ -59,6 +59,7 @@
 | [0735-asteroid-collision](https://github.com/Jxl-s/leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Jxl-s/leetcode-repo/tree/master/0787-sliding-puzzle) |
+| [0833-bus-routes](https://github.com/Jxl-s/leetcode-repo/tree/master/0833-bus-routes) |
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Jxl-s/leetcode-repo/tree/master/0879-maximize-distance-to-closest-person) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Jxl-s/leetcode-repo/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -169,6 +170,7 @@
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/Jxl-s/leetcode-repo/tree/master/0787-sliding-puzzle) |
+| [0833-bus-routes](https://github.com/Jxl-s/leetcode-repo/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/Jxl-s/leetcode-repo/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -323,6 +325,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
+| [0833-bus-routes](https://github.com/Jxl-s/leetcode-repo/tree/master/0833-bus-routes) |
 | [0906-walking-robot-simulation](https://github.com/Jxl-s/leetcode-repo/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jxl-s/leetcode-repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jxl-s/leetcode-repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
