@@ -1,26 +1,18 @@
 class Solution:
     def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
-        adj = [set() for _ in range(n)]
-
+        adj = { i: set() for i in range(n) }
         for a, b in edges:
             adj[a].add(b)
             adj[b].add(a)
         
-        def delete_node(i):
-            for j in adj[i]:
-                adj[j].remove(i)
+        while len(adj) > 2:
+            alone = []
+            for node, neighbors in adj.items():
+                if len(neighbors) == 1:
+                    alone.append((node, next(iter(neighbors))))
             
-            adj[i].clear()
+            for node, neighbor in alone:
+                del adj[node]
+                adj[neighbor].remove(node)
         
-        nodes = n
-        removed = [False] * n
-
-        while nodes > 2:
-            singles = [i for i in range(n) if len(adj[i]) == 1]
-            nodes -= len(singles)
-
-            for i in singles:
-                removed[i] = True
-                delete_node(i)
-
-        return [i for i in range(n) if not removed[i]]
+        return list(adj.keys())
