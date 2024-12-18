@@ -81,6 +81,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jxl-s/leetcode-repo/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Jxl-s/leetcode-repo/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-design-browser-history](https://github.com/Jxl-s/leetcode-repo/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jxl-s/leetcode-repo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jxl-s/leetcode-repo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
@@ -286,6 +287,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Jxl-s/leetcode-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Jxl-s/leetcode-repo/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Jxl-s/leetcode-repo/tree/master/1197-parsing-a-boolean-expression) |
+| [1582-design-browser-history](https://github.com/Jxl-s/leetcode-repo/tree/master/1582-design-browser-history) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Jxl-s/leetcode-repo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Jxl-s/leetcode-repo/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -301,6 +303,7 @@
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Jxl-s/leetcode-repo/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/Jxl-s/leetcode-repo/tree/master/1023-time-based-key-value-store) |
+| [1582-design-browser-history](https://github.com/Jxl-s/leetcode-repo/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -504,6 +507,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/Jxl-s/leetcode-repo/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Jxl-s/leetcode-repo/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/Jxl-s/leetcode-repo/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Jxl-s/leetcode-repo/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -970,10 +974,12 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
+| [1582-design-browser-history](https://github.com/Jxl-s/leetcode-repo/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Jxl-s/leetcode-repo/tree/master/0969-number-of-recent-calls) |
+| [1582-design-browser-history](https://github.com/Jxl-s/leetcode-repo/tree/master/1582-design-browser-history) |
 ## Quickselect
 |  |
 | ------- |
