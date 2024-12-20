@@ -24,13 +24,15 @@ class Solution:
         for i in range(n):
             candies[i] = candies_left[i] + candies_right[i]
         
+        # Normalize candy, so that lowest is 1
         low = min(candies) - 1
         for i in range(n):
             candies[i] -= low
 
+        # Normalize neighbors, so max diff between neighbors is 1
         for i in range(1, n - 1):
-            diff = min(candies[i] - candies[i - 1], candies[i] - candies[i + 1])
-            if diff > 1:
-                candies[i] -= (diff - 1)
+            diff = min(candies[i] - candies[i - 1], candies[i] - candies[i + 1]) - 1
+            if diff > 0:
+                candies[i] -= diff
         
         return sum(candies)
