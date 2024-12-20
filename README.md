@@ -241,6 +241,7 @@
 | [0257-binary-tree-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Jxl-s/leetcode-repo/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/Jxl-s/leetcode-repo/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
@@ -486,6 +487,7 @@
 | [0207-course-schedule](https://github.com/Jxl-s/leetcode-repo/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Jxl-s/leetcode-repo/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/Jxl-s/leetcode-repo/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
@@ -1012,5 +1014,6 @@
 ## Eulerian Circuit
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Jxl-s/leetcode-repo/tree/master/0332-reconstruct-itinerary) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
