@@ -321,6 +321,7 @@
 | [0001-two-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Jxl-s/leetcode-repo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
@@ -376,6 +377,7 @@
 | [0020-valid-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jxl-s/leetcode-repo/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Jxl-s/leetcode-repo/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Jxl-s/leetcode-repo/tree/master/0139-word-break) |
@@ -867,6 +869,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Jxl-s/leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
