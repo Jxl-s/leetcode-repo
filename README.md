@@ -751,6 +751,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/Jxl-s/leetcode-repo/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/Jxl-s/leetcode-repo/tree/master/2155-find-missing-observations) |
+| [2481-strictly-palindromic-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/Jxl-s/leetcode-repo/tree/master/2556-convert-the-temperature) |
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2812-find-the-maximum-achievable-number) |
@@ -827,6 +828,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Jxl-s/leetcode-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Jxl-s/leetcode-repo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -958,6 +960,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
 |  |
