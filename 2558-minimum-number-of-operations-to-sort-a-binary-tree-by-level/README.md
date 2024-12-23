@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/">2558. Minimum Number of Operations to Sort a Binary Tree by Level</a></h2><h3>Medium</h3><hr><p>You are given the <code>root</code> of a binary tree with <strong>unique values</strong>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level">2558. Minimum Number of Operations to Sort a Binary Tree by Level</a></h2><h3>Medium</h3><hr><p>You are given the <code>root</code> of a binary tree with <strong>unique values</strong>.</p>
 
 <p>In one operation, you can choose any two nodes <strong>at the same level</strong> and swap their values.</p>
 
