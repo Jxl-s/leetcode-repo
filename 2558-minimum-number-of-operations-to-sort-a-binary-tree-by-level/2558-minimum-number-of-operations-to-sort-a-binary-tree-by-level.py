@@ -30,19 +30,12 @@ class Solution:
 
         n = len(targets)
         visited = [False] * n 
-        count = 0
 
         def dfs(node):
-            nonlocal count
-
             if visited[node] or visited[targets[node]] or targets[node] == node:
-                return
-            
-            count += 1
-            visited[node] = True
-            dfs(targets[node])
-        
-        for i in range(n):
-            dfs(i)
+                return 0
 
-        return count
+            visited[node] = True
+            return 1 + dfs(targets[node])
+
+        return sum(dfs(i) for i in range(n))
