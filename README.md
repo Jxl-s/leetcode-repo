@@ -47,6 +47,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Jxl-s/leetcode-repo/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -478,6 +479,7 @@
 | [0338-counting-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0664-strange-printer](https://github.com/Jxl-s/leetcode-repo/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0747-min-cost-climbing-stairs) |
@@ -875,6 +877,7 @@
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Jxl-s/leetcode-repo/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
