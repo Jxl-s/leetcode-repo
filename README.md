@@ -51,6 +51,7 @@
 | [0495-teemo-attacking](https://github.com/Jxl-s/leetcode-repo/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Jxl-s/leetcode-repo/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Jxl-s/leetcode-repo/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -343,6 +344,7 @@
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jxl-s/leetcode-repo/tree/master/0535-encode-and-decode-tinyurl) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
@@ -409,6 +411,7 @@
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Jxl-s/leetcode-repo/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Jxl-s/leetcode-repo/tree/master/0535-encode-and-decode-tinyurl) |
 | [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
