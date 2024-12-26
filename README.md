@@ -48,6 +48,7 @@
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Jxl-s/leetcode-repo/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Jxl-s/leetcode-repo/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -683,6 +684,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0059-spiral-matrix-ii) |
+| [0495-teemo-attacking](https://github.com/Jxl-s/leetcode-repo/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/Jxl-s/leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Jxl-s/leetcode-repo/tree/master/0906-walking-robot-simulation) |
