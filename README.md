@@ -390,6 +390,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Jxl-s/leetcode-repo/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jxl-s/leetcode-repo/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0076-minimum-window-substring) |
@@ -693,6 +694,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/Jxl-s/leetcode-repo/tree/master/0495-teemo-attacking) |
@@ -754,6 +756,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jxl-s/leetcode-repo/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Jxl-s/leetcode-repo/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Jxl-s/leetcode-repo/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
