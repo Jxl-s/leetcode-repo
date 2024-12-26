@@ -252,6 +252,7 @@
 | [0310-minimum-height-trees](https://github.com/Jxl-s/leetcode-repo/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Jxl-s/leetcode-repo/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
@@ -566,6 +567,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -601,6 +603,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0783-search-in-a-binary-search-tree) |
@@ -724,6 +727,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jxl-s/leetcode-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0729-my-calendar-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0731-my-calendar-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0783-search-in-a-binary-search-tree) |
