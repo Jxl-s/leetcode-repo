@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Jxl-s/leetcode-repo/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0059-spiral-matrix-ii) |
@@ -894,6 +895,7 @@
 | [0037-sudoku-solver](https://github.com/Jxl-s/leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Jxl-s/leetcode-repo/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Jxl-s/leetcode-repo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
