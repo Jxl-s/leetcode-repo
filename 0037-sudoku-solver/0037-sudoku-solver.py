@@ -1,6 +1,7 @@
 class Solution:
     def addItem(self, i, j, val):
         self.board[i][j] = str(val)
+
         self.row_sets[i].add(self.board[i][j])
         self.col_sets[j].add(self.board[i][j])
         self.box_sets[(i // 3) * 3 + j // 3].add(self.board[i][j])
@@ -9,6 +10,7 @@ class Solution:
         self.row_sets[i].remove(self.board[i][j])
         self.col_sets[j].remove(self.board[i][j])
         self.box_sets[(i // 3) * 3 + j // 3].remove(self.board[i][j])
+
         self.board[i][j] = '.'
 
     def canPlace(self, i, j, val):
@@ -55,9 +57,6 @@ class Solution:
         # x is index in options
         n = len(options)
         def backtrack(x):
-            if x == n:
-                return self.board
-
             i, j = options[x]
             for val in range(1, 10):
                 if not self.canPlace(i, j, val):
