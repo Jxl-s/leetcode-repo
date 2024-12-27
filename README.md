@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jxl-s/leetcode-repo/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Jxl-s/leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Jxl-s/leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
@@ -200,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jxl-s/leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0064-minimum-path-sum) |
@@ -332,6 +334,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Jxl-s/leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jxl-s/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jxl-s/leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -888,6 +891,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Jxl-s/leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jxl-s/leetcode-repo/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Jxl-s/leetcode-repo/tree/master/0077-combinations) |
