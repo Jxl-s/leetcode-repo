@@ -58,6 +58,7 @@
 | [0605-can-place-flowers](https://github.com/Jxl-s/leetcode-repo/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/Jxl-s/leetcode-repo/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Jxl-s/leetcode-repo/tree/master/0724-find-pivot-index) |
@@ -497,6 +498,7 @@
 | [0494-target-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0518-coin-change-ii) |
 | [0664-strange-printer](https://github.com/Jxl-s/leetcode-repo/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/Jxl-s/leetcode-repo/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Jxl-s/leetcode-repo/tree/master/0806-domino-and-tromino-tiling) |
