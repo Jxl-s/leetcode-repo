@@ -514,6 +514,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Jxl-s/leetcode-repo/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Jxl-s/leetcode-repo/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jxl-s/leetcode-repo/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 ## Graph
