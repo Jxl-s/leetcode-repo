@@ -12,7 +12,6 @@ class Solution:
                 answer = 1
 
             answer += dp(length + zero) + dp(length + one)
-            answer %= MOD
-            return answer
+            return answer % MOD
 
         return dp(0)
