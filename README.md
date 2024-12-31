@@ -78,6 +78,7 @@
 | [0912-random-pick-with-weight](https://github.com/Jxl-s/leetcode-repo/tree/master/0912-random-pick-with-weight) |
 | [1002-maximum-width-ramp](https://github.com/Jxl-s/leetcode-repo/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/1019-squares-of-a-sorted-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/Jxl-s/leetcode-repo/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Jxl-s/leetcode-repo/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jxl-s/leetcode-repo/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -506,6 +507,7 @@
 | [0804-rotated-digits](https://github.com/Jxl-s/leetcode-repo/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Jxl-s/leetcode-repo/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
+| [1025-minimum-cost-for-tickets](https://github.com/Jxl-s/leetcode-repo/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jxl-s/leetcode-repo/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
