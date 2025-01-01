@@ -44,6 +44,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Jxl-s/leetcode-repo/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Jxl-s/leetcode-repo/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jxl-s/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Jxl-s/leetcode-repo/tree/master/0322-coin-change) |
@@ -352,6 +353,7 @@
 | [0205-isomorphic-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0496-next-greater-element-i) |
@@ -656,6 +658,7 @@
 | [0148-sort-list](https://github.com/Jxl-s/leetcode-repo/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jxl-s/leetcode-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
@@ -754,6 +757,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jxl-s/leetcode-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0729-my-calendar-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0729-my-calendar-i) |
@@ -791,6 +795,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Jxl-s/leetcode-repo/tree/master/0670-maximum-swap) |
@@ -904,6 +909,7 @@
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jxl-s/leetcode-repo/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Jxl-s/leetcode-repo/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Jxl-s/leetcode-repo/tree/master/1435-xor-queries-of-a-subarray) |
