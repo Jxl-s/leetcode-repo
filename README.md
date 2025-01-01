@@ -357,6 +357,7 @@
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Jxl-s/leetcode-repo/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Jxl-s/leetcode-repo/tree/master/0299-bulls-and-cows) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0496-next-greater-element-i) |
@@ -424,6 +425,7 @@
 | [0257-binary-tree-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Jxl-s/leetcode-repo/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Jxl-s/leetcode-repo/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0394-decode-string) |
@@ -714,6 +716,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Jxl-s/leetcode-repo/tree/master/0299-bulls-and-cows) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jxl-s/leetcode-repo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jxl-s/leetcode-repo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
