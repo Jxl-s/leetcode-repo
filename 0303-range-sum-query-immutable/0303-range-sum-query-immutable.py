@@ -6,8 +6,6 @@ class NumArray:
         self.prefix = [0] * (n + 1)
         for i in range(n):
             self.prefix[i + 1] = self.prefix[i] + nums[i]
-        
-        print(self.prefix)
 
     def sumRange(self, left: int, right: int) -> int:
         return self.prefix[right + 1] - self.prefix[left]
