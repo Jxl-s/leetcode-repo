@@ -801,6 +801,7 @@
 | [0263-ugly-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0292-nim-game) |
 | [0564-find-the-closest-palindrome](https://github.com/Jxl-s/leetcode-repo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Jxl-s/leetcode-repo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Jxl-s/leetcode-repo/tree/master/0670-maximum-swap) |
@@ -866,6 +867,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/1240-stone-game-ii) |
 ## Two Pointers
@@ -1035,6 +1037,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
