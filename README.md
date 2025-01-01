@@ -356,6 +356,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Jxl-s/leetcode-repo/tree/master/0290-word-pattern) |
 | [0432-all-oone-data-structure](https://github.com/Jxl-s/leetcode-repo/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0496-next-greater-element-i) |
@@ -421,6 +422,7 @@
 | [0224-basic-calculator](https://github.com/Jxl-s/leetcode-repo/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Jxl-s/leetcode-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Jxl-s/leetcode-repo/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0392-is-subsequence) |
