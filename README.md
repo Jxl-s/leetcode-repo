@@ -490,6 +490,7 @@
 | [0062-unique-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jxl-s/leetcode-repo/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/Jxl-s/leetcode-repo/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jxl-s/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -569,6 +570,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -605,6 +607,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jxl-s/leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -742,6 +745,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jxl-s/leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Jxl-s/leetcode-repo/tree/master/0074-search-a-2d-matrix) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jxl-s/leetcode-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -915,6 +919,7 @@
 | [0077-combinations](https://github.com/Jxl-s/leetcode-repo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jxl-s/leetcode-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jxl-s/leetcode-repo/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Jxl-s/leetcode-repo/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Jxl-s/leetcode-repo/tree/master/0494-target-sum) |
