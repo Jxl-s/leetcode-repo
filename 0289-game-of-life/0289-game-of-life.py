@@ -14,17 +14,23 @@ class Solution:
                     ni, nj = i + di, j + dj
                     if ni < 0 or nj < 0 or ni >= m or nj >= n:
                         continue
-                    
-                    if board[ni][nj] == 1:
-                        neighbors += 1
-                
-                if board[i][j] == 1:
-                    # 1 and 3
-                    if neighbors < 2 or neighbors > 3:
-                        updates.append((i, j, 0))
 
+                    if board[ni][nj] == 1 or board[ni][nj] == 2:
+                        neighbors += 1
+
+                if board[i][j] == 1:
+                    # 1 and 3: Die
+                    if neighbors < 2 or neighbors > 3:
+                        board[i][j] = 2
+
+                # 4: Revive
                 if board[i][j] == 0 and neighbors == 3:
-                    updates.append((i, j, 1))
+                    board[i][j] = 3
         
-        for i, j, state in updates:
-            board[i][j] = state
+        for i in range(m):
+            for j in range(n):
+                if board[i][j] == 2:
+                    board[i][j] = 0
+
+                if board[i][j] == 3:
+                    board[i][j] = 1
