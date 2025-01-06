@@ -111,6 +111,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Jxl-s/leetcode-repo/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Jxl-s/leetcode-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jxl-s/leetcode-repo/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Jxl-s/leetcode-repo/tree/master/1940-maximum-xor-for-each-query) |
@@ -463,6 +464,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jxl-s/leetcode-repo/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jxl-s/leetcode-repo/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Jxl-s/leetcode-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Jxl-s/leetcode-repo/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jxl-s/leetcode-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Jxl-s/leetcode-repo/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -870,6 +872,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Jxl-s/leetcode-repo/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Jxl-s/leetcode-repo/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Jxl-s/leetcode-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Jxl-s/leetcode-repo/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Jxl-s/leetcode-repo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jxl-s/leetcode-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
