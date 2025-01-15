@@ -778,6 +778,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Jxl-s/leetcode-repo/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Jxl-s/leetcode-repo/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Jxl-s/leetcode-repo/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0729-my-calendar-i](https://github.com/Jxl-s/leetcode-repo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Jxl-s/leetcode-repo/tree/master/0731-my-calendar-ii) |
@@ -1135,4 +1136,8 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Jxl-s/leetcode-repo/tree/master/0332-reconstruct-itinerary) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/2201-valid-arrangement-of-pairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Jxl-s/leetcode-repo/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
