@@ -140,6 +140,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Jxl-s/leetcode-repo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Jxl-s/leetcode-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Jxl-s/leetcode-repo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Jxl-s/leetcode-repo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/2586-longest-square-streak-in-an-array) |
@@ -949,6 +950,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Jxl-s/leetcode-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jxl-s/leetcode-repo/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Jxl-s/leetcode-repo/tree/master/3394-minimum-array-end) |
@@ -1062,6 +1064,7 @@
 | [0292-nim-game](https://github.com/Jxl-s/leetcode-repo/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/Jxl-s/leetcode-repo/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jxl-s/leetcode-repo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Jxl-s/leetcode-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Greedy
 |  |
 | ------- |
