@@ -155,6 +155,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Jxl-s/leetcode-repo/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2792-neighboring-bitwise-xor) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jxl-s/leetcode-repo/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2868-continuous-subarrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jxl-s/leetcode-repo/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -952,6 +953,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Jxl-s/leetcode-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Jxl-s/leetcode-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Jxl-s/leetcode-repo/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Jxl-s/leetcode-repo/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Jxl-s/leetcode-repo/tree/master/3394-minimum-array-end) |
 ## Backtracking
