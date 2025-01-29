@@ -193,6 +193,7 @@
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Jxl-s/leetcode-repo/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jxl-s/leetcode-repo/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
@@ -285,6 +286,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jxl-s/leetcode-repo/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Jxl-s/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Jxl-s/leetcode-repo/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jxl-s/leetcode-repo/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Jxl-s/leetcode-repo/tree/master/0733-flood-fill) |
@@ -318,6 +320,7 @@
 | [0200-number-of-islands](https://github.com/Jxl-s/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Jxl-s/leetcode-repo/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jxl-s/leetcode-repo/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jxl-s/leetcode-repo/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jxl-s/leetcode-repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -571,6 +574,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Jxl-s/leetcode-repo/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Jxl-s/leetcode-repo/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Jxl-s/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Jxl-s/leetcode-repo/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Jxl-s/leetcode-repo/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/Jxl-s/leetcode-repo/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jxl-s/leetcode-repo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
