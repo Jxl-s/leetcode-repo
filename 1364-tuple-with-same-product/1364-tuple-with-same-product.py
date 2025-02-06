@@ -12,7 +12,8 @@ class Solution:
         for product, count in counts.items():
             if count <= 1:
                 continue
-            
+
+            # i had to look up things about combinatorics i forgot that
             answer += 4 * count * (count - 1)
 
         return answer
