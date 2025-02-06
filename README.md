@@ -91,6 +91,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Jxl-s/leetcode-repo/tree/master/1325-path-with-maximum-probability) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jxl-s/leetcode-repo/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jxl-s/leetcode-repo/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/Jxl-s/leetcode-repo/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jxl-s/leetcode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jxl-s/leetcode-repo/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jxl-s/leetcode-repo/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -399,6 +400,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jxl-s/leetcode-repo/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Jxl-s/leetcode-repo/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Jxl-s/leetcode-repo/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/Jxl-s/leetcode-repo/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jxl-s/leetcode-repo/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Jxl-s/leetcode-repo/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Jxl-s/leetcode-repo/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -757,6 +759,7 @@
 | [0299-bulls-and-cows](https://github.com/Jxl-s/leetcode-repo/tree/master/0299-bulls-and-cows) |
 | [0692-top-k-frequent-words](https://github.com/Jxl-s/leetcode-repo/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Jxl-s/leetcode-repo/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/Jxl-s/leetcode-repo/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Jxl-s/leetcode-repo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Jxl-s/leetcode-repo/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Jxl-s/leetcode-repo/tree/master/1777-determine-if-two-strings-are-close) |
